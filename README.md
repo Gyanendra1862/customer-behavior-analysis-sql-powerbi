@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 Customer Behavior Analysis using SQL & Power BI
 
 ![SQL](https://img.shields.io/badge/SQL-Analytics-blue)
@@ -304,3 +305,7 @@ Data Analytics Student
 #  Support
 
 If you found this project useful, please give it a **star ⭐ on GitHub**.
+=======
+# customer-behavior-analysis-sql-powerbi
+Customer behavior analysis using SQL and Power BI to explore purchasing patterns, product performance, and revenue insights through an interactive dashboard.
+>>>>>>> c004ec77a1ca1500ace22a2fa8bd8a38190c0619
